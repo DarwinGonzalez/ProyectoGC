@@ -1,6 +1,4 @@
-/**
- * Created by iberkrhdz- on 14/03/2016.
- */
+
 
 function comprobar(){
     //Comprueba si los campos están vacios y muestra un error para cada campo.
