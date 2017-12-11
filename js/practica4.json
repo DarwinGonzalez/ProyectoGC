@@ -1,0 +1,51 @@
+{
+  "ruta":{
+    "senderos": [
+      {
+        "alojamiento": "Parador del Teide",
+        "localizacion": "Isla de Tenerife, Parque Nacional del Teide ",
+        "dificultad": "Media / Alta",
+        "sendero": "Pico Viejo",
+        "transporte": "Línea de Guagua Titsa 334",
+        "valoracion": "7/10",
+        "coste": "347€ por persona"
+      },
+      {
+        "alojamiento": "Parador del Teide",
+        "localizacion": "Isla de Tenerife, Parque Nacional del Teide ",
+        "dificultad": "Media",
+        "sendero": "Alto de Guajara",
+        "transporte": "Transporte concertado con la empresa Cairós",
+        "valoracion": "8/10",
+        "coste": "300€ por persona"
+      },
+      {
+        "alojamiento": "Refugio",
+        "localizacion": "Isla de Tenerife, Parque Nacional del Teide ",
+        "dificultad": "Alta",
+        "sendero": "Pico del Teide",
+        "transporte": "Transporte concertado con la empresa Peréz-Cairós",
+        "valoracion": "10/10",
+        "coste": "200€ por persona"
+      },
+      {
+        "alojamiento": "Hotel Rural Cuevas Negras",
+        "localizacion": "Isla de Tenerife, Parque Rural de Teno, Los Silos ",
+        "dificultad": "Media",
+        "sendero": "Cuevas Negras",
+        "transporte": "Transporte concertado con la empresa de autobuses Volcanar",
+        "valoracion": "6/10",
+        "coste": "150€ por persona, incluye almuerzo"
+      },
+      {
+        "alojamiento": "Hostal Casa de Pepa",
+        "localizacion": "Isla de Tenerife, Vilaflor de Chasna ",
+        "dificultad": "Media",
+        "sendero": "Paisaje Lunar",
+        "transporte": "Transporte concertado con la empresa Peréz-Cairós",
+        "valoracion": "5/10",
+        "coste": "200€ por persona"
+      }
+    ]
+  }
+}
