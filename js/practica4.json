@@ -45,6 +45,51 @@
         "transporte": "Transporte concertado con la empresa Peréz-Cairós",
         "valoracion": "5/10",
         "coste": "200€ por persona"
+      },
+      {
+        "alojamiento": "Hostal El palacio de Isora",
+        "localizacion": "Isla de Tenerife, Realejo Alto ",
+        "dificultad": "Media",
+        "sendero": "Ladera de Taiga",
+        "transporte": "Transporte concertado con la empresa Peréz-Cairós",
+        "valoracion": "1/10",
+        "coste": "300€ por persona"
+      },
+      {
+        "alojamiento": "Hotel Casa Taga",
+        "localizacion": "Isla de Tenerife, Parque Rural de Anaga",
+        "dificultad": "Media / Alta",
+        "sendero": "Chamorga",
+        "transporte": "Transporte con Titsa Línea 947",
+        "valoracion": "3/10",
+        "coste": "50€ por persona"
+      },
+      {
+        "alojamiento": "Apartahotel Nordic",
+        "localizacion": "Isla de Tenerife, Garachico",
+        "dificultad": "Baja",
+        "sendero": "Montaña Chinyero",
+        "transporte": "Transporte con Titsa Línea 019",
+        "valoracion": "8/10",
+        "coste": "80€ por persona"
+      },
+      {
+        "alojamiento": "Hostal La Pescadora",
+        "localizacion": "Isla de Tenerife, Taganana",
+        "dificultad": " Alta",
+        "sendero": "Afur",
+        "transporte": "Transporte con Titsa Línea 938",
+        "valoracion": "9/10",
+        "coste": "150€ por persona"
+      },
+      {
+        "alojamiento": "Apartamentos Los Roques",
+        "localizacion": "Isla de Tenerife, Fasnia",
+        "dificultad": " Baja",
+        "sendero": "Volcán de Fasnia",
+        "transporte": "Transporte con Titsa Línea 711",
+        "valoracion": "7/10",
+        "coste": "90€ por persona"
       }
     ]
   }
