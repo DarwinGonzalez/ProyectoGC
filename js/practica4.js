@@ -70,3 +70,10 @@ function cambiarPestanna(pestannas,pestanna) {
     });
 
 }
+
+//Funcion en js que muestra la imagen de la cara sonriente
+function Mostrarsmile() {
+    
+        document.getElementById("smile").style.visibility ='visible';
+    
+    }
