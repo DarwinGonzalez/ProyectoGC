@@ -285,8 +285,49 @@
                             </br>
                             </br>
 
+                            <form>
+                                
+                                    <div class="form-group"> <!-- Full Name -->
+                                        <label for="full_name_id" class="control-label">Nombre completo</label>
+                                        <input type="text" class="form-control" id="full_name_id" name="full_name" placeholder="">
+                                    </div>    
+                                
+                                    <div class="form-group"> <!-- Street 1 -->
+                                        <label for="street1_id" class="control-label">Punto de recogida</label>
+                                        <input type="text" class="form-control" id="street1_id" name="street1" placeholder="Aeropuerto de los Rodeos, Aeropuerto Sur,...">
+                                    </div>                    
+                                                            
+                                    <div class="form-group"> <!-- Street 2 -->
+                                        <label for="street2_id" class="control-label">Dirección de correo</label>
+                                        <input type="text" class="form-control" id="street2_id" name="street2" placeholder="xxxxxxx@gmail.com">
+                                    </div>    
+                                
+                                    <div class="form-group"> <!-- City-->
+                                        <label for="city_id" class="control-label">Numero de personas</label>
+                                        <input type="text" class="form-control" id="city_id" name="city" placeholder="">
+                                    </div>                                    
+                                                            
+                                    <div class="form-group"> <!-- State Button -->
+                                        <label for="state_id" class="control-label">Tipo tarjeta de crédito</label>
+                                        <select class="form-control" id="state_id">
+                                            <option value="AL">VISA</option>
+                                            <option value="AK">VISA Electron</option>
+                                            <option value="AZ">Mastercard</option>
+                                            <option value="AR">Diners Club</option>
+                                            <option value="CA">American Express</option>
+                                        </select>                    
+                                    </div>
+                                    
+                                    <div class="form-group"> <!-- Zip Code-->
+                                        <label for="zip_id" class="control-label">Numero de tarjeta</label>
+                                        <input type="text" class="form-control" id="zip_id" name="zip" placeholder="####-####-####-####">
+                                    </div>        
+                                      
+                                    
+                                </form>
+
                                 <div class="rotate-box-info">
-                                        <button role="button" type="button" name="action" onclick="Mostrarsmile()"> RESERVAR </button>
+                                        <button type="submit" class="btn btn-primary" name="action" onclick="Mostrarsmile()">Buy!</button>
                                 </br>
                                 </br>
                                         <div id="smile" style="visibility:hidden">
@@ -296,6 +337,7 @@
                                         </div>
                                 </div>
 
+                                
                                     
                              
               
