@@ -3,4 +3,4 @@
 
 Proyecto final de la asignatura de Gestión de Conocimiento.
 
-Prototipo de herramienta para la gestión de conocimiento [Sender-OS](https://darwingonzalez.github.io/ProyectoGC/)
+Prototipo de herramienta para la gestión de conocimiento [Sender-OS](https://darwingonzalez.github.io/prototipo_Proyecto_GC/)
